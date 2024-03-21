@@ -4,3 +4,8 @@
 ._.DS_Store
 .AppleDouble
 .LSOverride
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+node_modules
